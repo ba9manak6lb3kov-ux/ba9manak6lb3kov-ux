@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Akylbekov Bayman
+# 👋 Hi there! I'm Akylbekov Baiman
 
 💻 **Python Backend Developer | API Engineer | Automation Enthusiast**
 

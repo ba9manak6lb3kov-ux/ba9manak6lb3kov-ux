@@ -32,7 +32,7 @@ I love turning ideas into reliable backend systems, building RESTful APIs, and o
 ---
 
 ### 🌍 Find me around the web
-- 📬 Telegram: [@yourusername](https://web.telegram.org/a/)
+- 📬 Telegram: [@Calyps0Deamon](https://web.telegram.org/a/)
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 - 🌱 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
